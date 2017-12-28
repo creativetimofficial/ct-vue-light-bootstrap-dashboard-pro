@@ -1,6 +1,6 @@
 # [Vue Light Bootstrap Dashboard PRO](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard-pro) [![version][version-badge]][CHANGELOG]
 
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/69/original/opt_lbdp_vue_thumbnail.jpg?1514476712
+![alt text](https://s3.amazonaws.com/creativetim_bucket/products/69/original/opt_lbdp_vue_thumbnail.jpg?1514476712)
 
 **[Vue Light Bootstrap Dashboard PRO](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard-pro)** is a beautiful resource built over Bootstrap and Vue. 
 It will help you get started developing dashboards in no time.
